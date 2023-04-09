@@ -3,7 +3,7 @@
 ## Inspiration
 We were inspired by the LG's motivation of bringing smart solutions for safer and more confortable homes.
 ## What it does
-It detects if the personne is fainted, our system will be able to classify if the situation is dangeorous or not its will send a message to any family member that its predefined on the application and the Autorities  
+It detects if the personne is fainted, our system will be able to classify if the situation is dangeorous or not it will send a message to any family member that its predefined on the application and the Autorities  
  
 ## How we built it
 We use mediapipe librairie, developed by Google, it offers open source cross-platform, customizable ML solutions for live and streaming media.
